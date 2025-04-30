@@ -1,0 +1,49 @@
+Filename,Pet Label,Classifier Label,Match,Is Dog,Predicted Dog
+siberian husky2.webp,siberian husky,eskimo dog,0,1,1
+malamute1.webp,malamute,malamute,1,1,1
+german shepherd2.webp,german shepherd,german shepherd,1,1,1
+standard poodle1.webp,standard poodle,standard poodle,1,1,1
+staffordshire bull terrier2.jpg,staffordshire bull terrier,staffordshire bullterrier,0,0,1
+standard poodle.jpeg,standard poodle,standard poodle,1,1,1
+sussex-spaniel.jpg,sussex spaniel,sussex spaniel,1,1,1
+staffordshire bull terrier1.jpg,staffordshire bull terrier,staffordshire bullterrier,0,0,1
+malinois.jpeg,malinois,malinois,1,1,1
+basset.webp,basset,basset,1,1,1
+minature poodle.jpg,minature poodle,miniature poodle,0,0,1
+redbone.jpg,redbone,vizsla,0,1,1
+sussex-spaniel2.jpg,sussex spaniel,sussex spaniel,1,1,1
+toy poodle1.webp,toy poodle,miniature poodle,0,1,1
+bullmastiff.jpg,bullmastiff,bull mastiff,0,0,1
+pug.jpg,pug,pug,1,1,1
+golden retriever.png,golden retriever,golden retriever,1,1,1
+labrador retriever.webp,labrador retriever,labrador retriever,1,1,1
+eskimo dog1.jpg,eskimo dog,samoyed,0,1,1
+boxer.jpg,boxer,boxer,1,1,1
+eskimo dog2.jpg,eskimo dog,samoyed,0,1,1
+staffordshire bull terrier.jpeg,staffordshire bull terrier,american staffordshire terrier,0,0,1
+pug2.jpg,pug,pug,1,1,1
+malamute2.jpg,malamute,eskimo dog,0,1,1
+standard poodle2.jpg,standard poodle,standard poodle,1,1,1
+bull terrier.webp,bull terrier,great dane,0,0,1
+german shepherd.png,german shepherd,malinois,0,1,1
+samoyed1.webp,samoyed,samoyed,1,1,1
+eskimo dog.webp,eskimo dog,samoyed,0,1,1
+toy poodle.png,toy poodle,toy poodle,1,1,1
+malamute.webp,malamute,malamute,1,1,1
+siberian husky.webp,siberian husky,eskimo dog,0,1,1
+samoyed.jpg,samoyed,samoyed,1,1,1
+malinois1.webp,malinois,malinois,1,1,1
+miniature poodle2.webp,miniature poodle,miniature poodle,1,1,1
+redbone1.webp,redbone,redbone,1,1,1
+great pyrenees.jpg,great pyrenees,great pyrenees,1,1,1
+boxer1.jpg,boxer,boxer,1,1,1
+basset1.jpg,basset,basset,1,1,1
+german shepherd1.webp,german shepherd,german shepherd,1,1,1
+pug1.webp,pug,pug,1,1,1
+golden retriever2.jpg,golden retriever,golden retriever,1,1,1
+miniature poodle1.jpg,miniature poodle,miniature poodle,1,1,1
+great pyrenees2.jpg,great pyrenees,tibetan mastiff,0,1,1
+bullmastiff1.jpg,bullmastiff,bull mastiff,0,0,1
+golden retriever1.jpg,golden retriever,golden retriever,1,1,1
+siberian husky1.webp,siberian husky,eskimo dog,0,1,1
+great pyrenees1.jpg,great pyrenees,great pyrenees,1,1,1
