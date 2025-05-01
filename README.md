@@ -10,7 +10,7 @@ Built by **Van Tran**, a Software Engineering student at UTD, this project, thro
 
 The `data/pet_images/` folder is **empty by default**.
 
-To use the classifier, **you must add your own image folders**, where each folder name is the name of the dog breed (e.g., `labrador`, `husky`, `poodle`).
+To use the classifier, **you must add your own images**, where each image name is the name of the dog breed (e.g., `labrador`, `husky`, `poodle`).
 
 Each folder should contain images in one of the following formats:
 - `.jpg`
